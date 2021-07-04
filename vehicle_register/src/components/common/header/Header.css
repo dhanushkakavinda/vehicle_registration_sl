@@ -1,0 +1,18 @@
+.header-logo{
+	font-family:aerial;
+	font-size:40px;
+	text-decoration:none;
+	color: red;
+}
+
+.header-top_logo{
+	margin-left: 60px;
+	margin-top: 30px;
+	text-align: left;
+}
+
+.header-top_navbar{
+	width: 880px;
+	margin-left: 370px;
+	margin-top: -50px;
+}
